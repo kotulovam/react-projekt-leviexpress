@@ -1,8 +1,7 @@
-
 export const ReservationPage = () => {
   return (
     <main>
-      <p>Reservation page - UNDER CONSTRUCTION3</p>
+      <h2>Vaše e-jízdenka</h2>
     </main>
   );
 };
